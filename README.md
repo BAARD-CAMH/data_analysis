@@ -11,7 +11,7 @@ This work is funded in part by the National Institute of Mental Health [grant nu
 NIH Project: 1UG3MH137353-01<br>
 https://reporter.nih.gov/search/Ot-rVrV750CHAHTHP7az_A/project-details/10954667
 
-This pipeline is under active development, for questions please contact Amber at Amber.Fedynak@camh.ca
+All SQL scripts were written by Amber Fedynak, for questions please contact her at Amber.Fedynak@camh.ca
 
 ### Dashboard Code Repository
 
