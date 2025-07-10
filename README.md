@@ -17,18 +17,18 @@ All SQL scripts were written by Amber Fedynak, for questions please contact her 
 
 An interactive dashboard used to support decision making in the development and evaluation of the BAARD tool.
 
-🔗 https://github.com/afedynak/baard_dashboard
+🔗 https://github.com/BAARD-CAMH/dashboard
 
 ### Data Analysis Code Repository
 
 All scripts and code utilized in the processing, harmonization, and analysis of multi-modal datasets for the BAARD project.
 
-🔗 https://github.com/afedynak/baard_study_TRLLD
+🔗 https://github.com/BAARD-CAMH/data_analysis
 
 ### Data Modelling Code Repository
 This repository contains scripts for implementing modelling approaches for the BAARD project.
 
-🔗 https://github.com/afedynak/baard_modelling
+🔗 https://github.com/BAARD-CAMH/modelling
 
 
 
