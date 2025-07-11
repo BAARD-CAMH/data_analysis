@@ -11,24 +11,10 @@ This work is funded in part by the National Institute of Mental Health [grant nu
 NIH Project: 1UG3MH137353-01<br>
 https://reporter.nih.gov/search/Ot-rVrV750CHAHTHP7az_A/project-details/10954667
 
-All SQL scripts were written by Amber Fedynak, for questions please contact her at Amber.Fedynak@camh.ca
+KCNI Confluence page: 
+https://kcniconfluence.camh.ca/display/BAAR/BAARD
 
-### Dashboard Code Repository
-
-An interactive dashboard used to support decision making in the development and evaluation of the BAARD tool.
-
-🔗 https://github.com/BAARD-CAMH/dashboard
-
-### Data Analysis Code Repository
-
-All scripts and code utilized in the processing, harmonization, and analysis of multi-modal datasets for the BAARD project.
-
-🔗 https://github.com/BAARD-CAMH/data_analysis
-
-### Data Modelling Code Repository
-This repository contains scripts for implementing modelling approaches for the BAARD project.
-
-🔗 https://github.com/BAARD-CAMH/modelling
+All SQL scripts and data harmonization were done by Amber Fedynak, for questions please contact her at Amber.Fedynak@camh.ca
 
 
 
