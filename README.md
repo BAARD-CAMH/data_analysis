@@ -14,7 +14,7 @@ https://reporter.nih.gov/search/Ot-rVrV750CHAHTHP7az_A/project-details/10954667
 KCNI Confluence page: 
 https://kcniconfluence.camh.ca/display/BAAR/BAARD
 
-All SQL scripts and data harmonization were done by Amber Fedynak, for questions please contact her at Amber.Fedynak@camh.ca
+All SQL scripts and data harmonization were authored by Amber Fedynak, for questions please contact her at Amber.Fedynak@camh.ca
 
 
 
